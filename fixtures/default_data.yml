@@ -1,0 +1,10 @@
+#Usuario
+data:
+  username:
+    test_email: 'test.automation@bol.com.br'
+
+  password:
+    test_email: 'automation2018'
+
+  cpf:
+    test_email: '00197044026'
