@@ -1,4 +1,4 @@
-# Automation Submarino
+# Submarino Test Automation Example
 
 This project was created to practice my skills using Cucumber, Capybara and Page-Object.
 
@@ -8,7 +8,8 @@ This automation has two scenarios, that purchase a product on the Submarino webs
 ## Prerequisites
 
 ```
-Ruby
+Ruby 2.4.2
+Chromedriver 2.40
 Bundle
 ```
 
