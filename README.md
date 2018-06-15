@@ -1,4 +1,4 @@
-# Automatio Submarino
+# Automation Submarino
 
 This project was created to practice my skills using Cucumber, Capybara and Page-Object.
 
