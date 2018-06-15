@@ -10,7 +10,7 @@ This automation has two scenarios, that purchase a product on the Submarino webs
 ```
 Ruby 2.4.2
 Chromedriver 2.40
-Bundle
+Bundler
 ```
 
 ## Getting Started
